@@ -1,0 +1,91 @@
+There is no matching the speed of innovation and advancement in the field of computer science
+ and technology today. The more you try to learn, the more there is to learn and discover. With
+ new upgrades happening everyday and with ongoing research and development in the field,
+ there is an infinite scope for growth. I am intrigued by new software applications that are coming
+ in the market everyday to ease personal and professional lives. I want to learn about the
+ emerging technologies and their usage in the modern day volatile world. With some background
+ knowledge and experience already in the field, I feel prepared to study more in order to scale up
+ mycareer to greater heights. Thus, I seek to pursue a Master of Science in Computer Science.
+ I completed my bachelor's degree in Bachelor of Technology in Computer Science and
+ Engineering from Keshav Memorial Institute of Technology. Ever since my school years, I had a
+ profound interest in computer science and also learned programming, application development
+ and game development in my school years just on preset templates. This ignited my passion
+ further for the field and led me to choosing a bachelor's degree in the same. My bachelor's
+ degree further defined my interest by giving me knowledge in areas like Computer Programming
+ in C, Data structures through C++, Computer Organization, Object Oriented Programming with
+ Java, Database Management Systems, Software Engineering, Web Technologies, Information
+ Technology, Data Mining etc. All of these subjects thoroughly excited me and also made me
+ more aware of the interdisciplinary nature of the field wherein everything is used in order to
+ create cutting edge solutions for varied requirements.
+ The classroom engagement turned into experience as we worked on several projects and
+ applied the concepts learnt. I worked on a project using Machine learning for Car Sales in
+ Norway. I was the team lead in the project and we performed regression analysis with pre
+processing of data for the proposed results. The project was aimed at predicting the number of
+ cars that would be sold in the coming years depending on various input features. Predictive
+ modeling and regression analysis are used extensively today for applications and this project
+ heightened my passion in the same. I worked on another project where I built a web application
+ for Fest Management using Servlets and HTML. We designed the whole platform features like
+ student login and registration pages. I also worked on the front-end and backend development.
+ This project was done during the Virtusa hackathon and the aim of the web portal was to
+ manage the fest by getting student registrations.
+ My rising interest in software development for healthcare and analytics led me to completing a
+ project for Breast Cancer Prediction. Here, I worked with Machine Learning algorithms. I was
+ again the team lead and was required to carry out the pre-processing of data and model fitting.
+ The designed project was built to analyse different parameters and predict whether the person
+ was suffering from breast cancer or not. Next, I wanted to diversify my portfolio with varied
+ technology uses and understanding. So, I worked on a project for Customer Score Calculation
+ where I gained proficiency in Node JS, MySQL, HTML and CSS. This project involved Database
+ Management and here, we built a web application that could take the previous data of
+ customers regarding their loans and credit management potential and evaluate the data in order
+ to determine whether to sanction the loan or not. Machine learning has been a field that has
+ captivated me immensely. Thus, I worked on another project for Sentiment Analysis of Code
+Mixed languages. Here, we made use of natural language processing. The designed application
+ was aimed at finding or evaluating the sentiment in Code-Mixed languages using Hindi and
+ English languages. The detected sentiment from the text would be displayed to the user in the
+ category as positive, negative or neutral.
+ During my bachelor's education, I also completed an internship which helped me take a dive
+ into the real professional world of developers. I worked as an Intern at ADTRAN Networks India
+ Private Ltd for 4 months. Here, I gained insight into the software development process, front end
+ development, Technologies used, interface building, backend processes etc. It was quite
+ interesting and also fascinating to learn about how software applications are built to become so
+ useful for the end user.
+ I have grown my acumen and aptitude even more through additional courses and certifications
+ in order to build my skill set. I did a certificate course in Machine Learning by SONET and an
+ Introduction To Machine Learning course by NPTEL. I also completed the 12 week Joy of
+ Computing program by NPTEL. I also have a certification in Social Networks by NPTEL. These
+ courses added to my curiosity and interest and also helped me add to my intellect. My keen
+ interest for computers and technology is exhibited in my achievements as well where I have
+ secured a good rank in the HackerEarth platform in the Basic Programming category and have
+ achieved the 2417 rank in CodeVita Season 8 out of 55,654 participants.
+ My personality was further defined through other engagements and activities in school and
+ college where I made my mark. I was the President of the drama club in our college and gave
+ multiple memorable and praiseworthy stage performances particularly at the stand-up comedy
+ events. My mental horizons are maintained sharply given my interest in chess. I have won many
+ district level chess tournaments during my school days.
+ I am currently Working as a Senior Officer at DBS Asia Hub 2 Private Ltd. I have worked on
+ their Payment Engine as a full stack developer. Through my work experience over the last 1.5
+ years, I have gained proficiency in multiple technologies and gained insights into the entire
+ application development cycle. I have also mentored and supervised new team members. Now,
+ I want to take my learning and experience to the next level by pursuing higher education where I
+ will gain a more detailed understanding of the field. Given the everyday innovations, I want to
+ stay abreast of the latest technologies and trends in the industry. Moreover, this is a field that
+ requires constant learning and self growth to match the changing needs of the market. Thus, I
+ believe that it's the right time to pursue a Master's course which will take me to the next level in
+ myeducational and professional journey.
+ The Master’s course in Computer Science is something perfectly aligned with my future
+ interests. I wish to pursue this course as it will allow me to enhance my knowledge in computer
+ science. It will also expose me to the depths of the concepts which I have only scraped so far. In
+ future, I wish to run my own software company and this course will play a key role in laying the
+ foundation for achieving this goal. The course will expose me to deeply embedded learning of
+ advanced concepts in machine learning, artificial intelligence, software development, operating
+systems, data mining, artificial intelligence etc. These streams of knowledge will help me in
+ moving forward in my career and prepare me to contribute significantly to today’s technological
+ advancements.
+ The university of _____________ is the ideal choice for me to pursue this course. I believe that
+ my journey has provided me with an increased level of maturity, discipline, and expertise in
+ many fields, which will allow me to thrive in the field of Computer Science. The dynamic and
+ talented faculty will make my learning experience a memorable one. I also look forward to
+ gaining from valuable exchanges with fellow students in my department. As someone with
+ qualities of diligence, innovative thinking and leadership, I am sure to be a great asset to the
+ university and my peers too. I am certain this university is the perfect fit for me and I will be a
+ value addition to the university as well.

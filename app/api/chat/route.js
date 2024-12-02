@@ -72,7 +72,7 @@ async function getVectorStore() {
 async function getFullDocument() {
   if (fullDocument) return fullDocument;
 
-  const loader = new TextLoader("./documents/Sreeram_Bangaru_SOP.txt");
+  const loader = new TextLoader("./documents/sreeram_info.txt");
   const docs = await loader.load();
   fullDocument = docs[0].pageContent;
   return fullDocument;

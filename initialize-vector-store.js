@@ -22,7 +22,7 @@ async function initializeVectorStore() {
   const pineconeIndex = pc.index(PINECONE_INDEX_NAME);
 
   const loader = new TextLoader(
-    "C:/Users/sreer/OneDrive/Desktop/ragbot/support-chatbot/documents/Sreeram_Bangaru_SOP.txt"
+    "C:/Users/sreer/OneDrive/Desktop/ragbot/support-chatbot/documents/sreeram_info.txt"
   );
   const rawDocs = await loader.load();
   const textSplitter = new RecursiveCharacterTextSplitter({

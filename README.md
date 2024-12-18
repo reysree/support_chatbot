@@ -14,5 +14,13 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result
+
+To run this project in your local the following configurations needs to be setup:
+- install node modules : npm install
+- create a .env.local file containing the below keys:
+  - GROQ_API_KEY
+  - PINECONE_API_KEY
+  - OPENAI_API_KEY
+  - PINECONE_INDEX_NAME
 
